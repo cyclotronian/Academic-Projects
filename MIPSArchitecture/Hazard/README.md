@@ -15,7 +15,7 @@ The Pipeline design with Data Forwarding and Hazard Detection is as follows:
 
 <img src="./figs/design.png", width=1000>
 
-The simulation output of _Hazard.v_ (i.e. after implementing Data
+The simulation output of [_Hazard.v_](./Hazard.v) (i.e. after implementing Data
 Forwarding and Hazard Detection) is as follows:
 
 <img src="./figs/output-new.png", width=700>
