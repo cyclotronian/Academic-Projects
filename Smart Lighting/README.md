@@ -14,7 +14,7 @@ As each row begins to get filled the lights get turned on as each
 rows empties completely the light gets turned off. You can assume
 there are at least 10 rows. Smart Lighting is an automated system 
 for lighting conference room designed using 8086 Microprocessor.
-<br>The Probelm Scenario is follows:
+<br>The Problem Scenario is as follows:
 
 <img src="./figs/problem.png", width=500>
 
